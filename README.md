@@ -1,5 +1,6 @@
-# DiscManager (в разработке)
-<img width="1283" height="700" alt="image" src="https://github.com/user-attachments/assets/c28882b0-826a-41a3-ae8f-0af723b4674b" />
+# DiscManager (в разработке) (BurmaldaGUI ранее)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/de1635b5-738e-44f9-b6ce-c163ae6f1718" />
+
 
 
 * #### Плагин добавляет простой интерфейс для управления проигрывателем (Jukebox) через GUI.
