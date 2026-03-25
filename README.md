@@ -1,6 +1,8 @@
-# BurmaldaGUI (в разработке)
+# DiscManager (в разработке)
+<img width="1283" height="700" alt="image" src="https://github.com/user-attachments/assets/c28882b0-826a-41a3-ae8f-0af723b4674b" />
 
-Плагин добавляет простой интерфейс для управления проигрывателем (Jukebox) через GUI.
+
+* #### Плагин добавляет простой интерфейс для управления проигрывателем (Jukebox) через GUI.
 
 ---
 
@@ -86,6 +88,9 @@
 ## 🧭 Интерфейс
 
 ### Главное меню
+<img width="351" height="504" alt="image" src="https://github.com/user-attachments/assets/72c034fc-481f-4275-8fac-c76e3619df5a" />
+
+
 
 * **Центр (большое поле)** — список пластинок
 * **Стрелка слева (⬅)** — предыдущая страница
@@ -96,6 +101,7 @@
 ---
 
 ### Меню добавления
+<img width="352" height="297" alt="image" src="https://github.com/user-attachments/assets/3d313cfe-76d6-4ab7-99a1-774780043c3d" />
 
 * **Лист бумаги** — подсказка
 * **Стрелка** — вернуться назад
@@ -104,6 +110,7 @@
 ---
 
 ### Режим удаления
+<img width="352" height="498" alt="image" src="https://github.com/user-attachments/assets/373e7203-c2ba-4df9-a191-9a1e0259e1e3" />
 
 * Нижняя панель становится красной
 * Кнопки:
@@ -155,7 +162,7 @@
 
 Если плагин тебе зашёл — можешь поддержать:
 
-*[Boosty](https://boosty.to/k0pusha/donate)
+* [Boosty](https://boosty.to/k0pusha/donate)
 
 #### Буду нереально рад любой сумме (абсолютно любой)
 
