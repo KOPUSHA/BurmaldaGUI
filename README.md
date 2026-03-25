@@ -1,4 +1,4 @@
-# DiscManager (в разработке) (BurmaldaGUI ранее)
+# BurmaldaGUI
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/de1635b5-738e-44f9-b6ce-c163ae6f1718" />
 
 
